@@ -1,0 +1,24 @@
+2020-07-21 11:45:51,496 WARN  [SoapUI] Missing folder [C:\Users\RahulPoddar\Desktop\PROJECT\my-app\ext] for external libraries
+2020-07-21 11:45:51,497 INFO  [DefaultSoapUICore] Creating new settings at [C:\WINDOWS\system32\config\systemprofile\soapui-settings.xml]
+2020-07-21 11:45:54,266 INFO  [PluginManager] 0 plugins loaded in 5 ms
+2020-07-21 11:45:54,266 INFO  [DefaultSoapUICore] All plugins loaded
+2020-07-21 11:45:58,655 INFO  [WsdlProject] Loaded project from [file:/C:/Users/RahulPoddar/Desktop/PROJECT/my-app/Add-and-delete-JSON-soapui-project.xml]
+2020-07-21 11:45:58,713 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Add and delete JSON]
+2020-07-21 11:45:58,714 INFO  [SoapUITestCaseRunner] Running Project [Add and delete JSON], runType = SEQUENTIAL
+2020-07-21 11:45:58,735 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Add & Delete with Property Transfer]
+2020-07-21 11:45:58,773 INFO  [SoapUITestCaseRunner] running step [Add]
+2020-07-21 11:45:59,464 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2020-07-21 11:45:59,651 INFO  [SoapUITestCaseRunner] running step [Delete]
+2020-07-21 11:45:59,805 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Add & Delete with Property Transfer], time taken: 633ms, status: FINISHED
+2020-07-21 11:45:59,815 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Add and Delete with Property]
+2020-07-21 11:45:59,816 INFO  [SoapUITestCaseRunner] running step [Add]
+2020-07-21 11:45:59,906 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2020-07-21 11:45:59,908 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-07-21 11:45:59,929 INFO  [SoapUITestCaseRunner] running step [Delete]
+2020-07-21 11:46:00,376 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Add and Delete with Property], time taken: 540ms, status: FINISHED
+2020-07-21 11:46:00,378 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Add and delete with Script]
+2020-07-21 11:46:00,379 INFO  [SoapUITestCaseRunner] running step [Add]
+2020-07-21 11:46:00,467 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2020-07-21 11:46:01,379 INFO  [SoapUITestCaseRunner] running step [Delete]
+2020-07-21 11:46:01,546 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Add and delete with Script], time taken: 1154ms, status: FINISHED
+2020-07-21 11:46:01,547 INFO  [SoapUITestCaseRunner] Project [Add and delete JSON] finished with status [FINISHED] in 2825ms
